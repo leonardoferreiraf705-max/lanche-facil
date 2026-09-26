@@ -7,7 +7,7 @@ SECRET_KEY = 'django-insecure-lanche-facil-2026'
 
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['lanche-facil.onrender.com']
 
 
 INSTALLED_APPS = [
